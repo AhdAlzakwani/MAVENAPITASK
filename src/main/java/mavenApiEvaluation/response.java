@@ -1,6 +1,6 @@
 package mavenApiEvaluation;
 
-public class response {
+public class Response {
 	docs[] docs;
 
 	public docs[] getDocs() {

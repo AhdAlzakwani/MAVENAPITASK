@@ -1,15 +1,17 @@
 package mavenApiEvaluation;
 
 public class author {
-	Results[] results;
+	Response response;
 
-	public Results[] getResults() {
-		return results;
+	public Response getResponse() {
+		return response;
 	}
 
-	public void setResults(Results[] results) {
-		this.results = results;
+	public void setResponse(Response Response) {
+		this.response = Response;
 	}
+
+
 	
 
 }

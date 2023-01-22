@@ -1,14 +1,14 @@
 package mavenApiEvaluation;
 
 public class Articles {
-	response response;
+	Response Response;
 
-	public response getResponse() {
-		return response;
+	public Response getResponse() {
+		return Response;
 	}
 
-	public void setResponse(response response) {
-		this.response = response;
+	public void setResponse(Response Response) {
+		this.Response = Response;
 	}
 	
 	
